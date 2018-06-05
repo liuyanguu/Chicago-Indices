@@ -8,3 +8,5 @@ text files
 This exercise is based on 3.5 million commuting trips in Chicago.
 My blog that discusses it in more details:
 https://yangliuresearch.blogspot.com/2018/03/week-319-how-many-jobs-are-passed-on.html
+
+
